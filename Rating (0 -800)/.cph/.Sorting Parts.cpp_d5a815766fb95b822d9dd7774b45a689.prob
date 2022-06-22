@@ -1,0 +1,1 @@
+{"name":"Local: Sorting Parts","url":"d:\\all codes\\Codeforces\\Rating (0 -800)\\Sorting Parts.cpp","tests":[{"id":1644682392499,"input":"3\n3\n2 2 1\n4\n3 1 2 1\n5\n1 2 2 4 4","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\all codes\\Codeforces\\Rating (0 -800)\\Sorting Parts.cpp","group":"local","local":true}

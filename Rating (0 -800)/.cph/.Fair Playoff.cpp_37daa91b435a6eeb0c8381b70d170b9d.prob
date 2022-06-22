@@ -1,0 +1,1 @@
+{"name":"Local: Fair Playoff","url":"d:\\all codes\\Codeforces\\Rating (0 -800)\\Fair Playoff.cpp","tests":[{"id":1655702954103,"input":"4\n3 7 9 5\n4 5 6 9\n5 3 8 1\n6 5 3 2\n","output":"YES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\all codes\\Codeforces\\Rating (0 -800)\\Fair Playoff.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Spy Detected!","url":"d:\\all codes\\Codeforces\\contest\\Spy Detected!.cpp","tests":[{"id":1655294287723,"input":"4\n4\n11 13 11 11\n5\n1 4 4 4 4\n10\n3 3 3 3 10 3 3 3 3 3\n3\n20 20 10\n","output":"2\n1\n5\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\all codes\\Codeforces\\contest\\Spy Detected!.cpp","group":"local","local":true}

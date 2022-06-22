@@ -1,0 +1,1 @@
+{"name":"Local: kquery","url":"d:\\all codes\\Codeforces\\Rating (0 -800)\\kquery.cpp","tests":[{"id":1645014285305,"input":"5\n5 1 2 3 4\n3\n2 4 1\n4 4 4\n1 5 2 ","output":"2\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\all codes\\Codeforces\\Rating (0 -800)\\kquery.cpp","group":"local","local":true}
